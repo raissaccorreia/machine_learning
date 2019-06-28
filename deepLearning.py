@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from fast_rcnn.config import cfg
+#https://chunml.github.io/ChunML.github.io/project/Running-Faster-RCNN-Ubuntu/
 
 # Reading ratings file
 ratings = pd.read_csv('ratings.csv', sep='\t', encoding='latin-1', 
