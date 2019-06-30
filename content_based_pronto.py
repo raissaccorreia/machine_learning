@@ -47,8 +47,8 @@ print(genre_recommendations('Karate Kid, The (2010)').head(5)) #acao, infantil, 
 print(genre_recommendations('Mulan (1998)').head(5)) #aventura, animacao, infantil, comedia, drama, musical, romance
 print(genre_recommendations('Life Is Beautiful (La Vita è bella) (1997)').head(5)) #drama, romance, guerra, comedia
 print(genre_recommendations('Sound of Music, The (1965)').head(5)) #musical, romance
-print(genre_recommendations('Shining, The (1980)').head(5)) #horror
-print(genre_recommendations('Paranormal Activity 3 (2011)').head(5)) #horror
+print(genre_recommendations('Shining, The (1980)').head(5)) #terror
+print(genre_recommendations('Paranormal Activity 3 (2011)').head(5)) #terror
 print(genre_recommendations('10 Things I Hate About You (1999)').head(5)) #comedia, romance
 
 #Personalizando para um usuario
