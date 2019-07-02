@@ -7,6 +7,12 @@
  - Surprise 
  - Scikit-Learn
 
+## Dataset
+
+MovieLens Latest Small
+
+https://grouplens.org/datasets/movielens/latest/
+
 ## Tutorial Folder
 
 Contains only 3 tests that we made before, 
