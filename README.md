@@ -18,5 +18,5 @@ https://grouplens.org/datasets/movielens/latest/
 Contains only 3 tests that we made before, 
 to make sure the principle is working, not part of project
 
-
-
+##Link to watch video
+https://streamable.com/myfd9
